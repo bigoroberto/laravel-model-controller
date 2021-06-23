@@ -1,5 +1,3 @@
-@extends('layouts.main')
-
 @section('content')
     <ul >
         @foreach ($movies as $movie)
